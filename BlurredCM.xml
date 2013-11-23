@@ -10,8 +10,7 @@
   <remove-project name="CyanogenMod/android_packages_apps_Calendar" />
   <remove-project name="CyanogenMod/android_packages_apps_Contacts" />
   <remove-project name="CyanogenMod/android_packages_apps_Dialer" />
-  <!-- <remove-project name="CyanogenMod/android_packages_apps_Email" /> -->
-  <remove-project name="CyanogenMod/android_packages_apps_Mms" />
+  test 2<remove-project name="CyanogenMod/android_packages_apps_Mms" />
   <remove-project name="CyanogenMod/android_packages_apps_Settings" />
   <remove-project name="CyanogenMod/android_vendor_cm" />
   
