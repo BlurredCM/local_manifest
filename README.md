@@ -19,9 +19,9 @@ To initialize your local repository using the CyanogenMod trees, use a command l
 
 Then download additional repo's for unofficial devices:
 
-    curl -L -o .repo/local_manifests/BlurredCM.xml -O -L https://raw.github.com/droidfx/local_manifest/cm-11.0/BlurredCM.xml
+    curl -L -o .repo/local_manifests/BlurredCM.xml -O -L https://raw.github.com/BlurredCM/local_manifest/cm-11.0/BlurredCM.xml
  
-    	( or Download: https://github.com/BlurredCM/local_manifest/blob/master/BlurredCM.xml
+    	( or Download: https://github.com/BlurredCM/local_manifest/blob/cm-11.0/BlurredCM.xml
 		and place it in your ~/Android/.repo/local_manifest.xml (or ~/'name you choose'/.repo)
 
 Then to sync up:
