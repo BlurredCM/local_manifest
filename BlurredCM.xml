@@ -16,7 +16,7 @@
   <remove-project name="CyanogenMod/android_vendor_cm" />
   
   <!-- BlurredCM replacements -->
-  <project name="BlurredCM/android_packages_frameworks_base" path="frameworks/base" remote="gh" revision="cm-11.0" />
+  <project name="BlurredCM/android_frameworks_base" path="frameworks/base" remote="gh" revision="cm-11.0" />
   <project name="BlurredCM/android_packages_apps_Browser" path="packages/apps/Browser" remote="gh" revision="cm-11.0" />
   <project name="BlurredCM/android_packages_apps_Calculator" path="packages/apps/Calculator" remote="gh" revision="cm-11.0" />
   <project name="BlurredCM/android_packages_apps_Calendar" path="packages/apps/Calendar" remote="gh" revision="cm-11.0" />
