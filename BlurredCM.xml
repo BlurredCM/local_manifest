@@ -13,8 +13,7 @@
   <remove-project name="CyanogenMod/android_packages_apps_Email" />
   <remove-project name="CyanogenMod/android_packages_apps_Mms" />
   <remove-project name="CyanogenMod/android_packages_apps_Settings" />
-  <remove-project name="CyanogenMod/android_vendor_cm" />
-  
+ 
   <!-- BlurredCM replacements -->
   <project name="BlurredCM/android_frameworks_base" path="frameworks/base" remote="gh" revision="cm-11.0" />
   <project name="BlurredCM/android_packages_apps_Browser" path="packages/apps/Browser" remote="gh" revision="cm-11.0" />
@@ -25,5 +24,4 @@
   <project name="BlurredCM/android_packages_apps_Email" path="packages/apps/Email" remote="gh" revision="cm-11.0" />
   <project name="BlurredCM/android_packages_apps_Mms" path="packages/apps/Mms" remote="gh" revision="cm-11.0" />
   <project name="BlurredCM/android_packages_apps_Settings" path="packages/apps/settings" remote="gh" revision="cm-11.0" />
-  <project name="BlurredCM/android_vendor_cm" path="vendor/cm" remote="gh" revision="cm-11.0" />
-</manifest>
+ </manifest>
