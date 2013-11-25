@@ -23,5 +23,5 @@
   <project name="BlurredCM/android_packages_apps_Dialer" path="packages/apps/Dialer" remote="gh" revision="cm-11.0" />
   <project name="BlurredCM/android_packages_apps_Email" path="packages/apps/Email" remote="gh" revision="cm-11.0" />
   <project name="BlurredCM/android_packages_apps_Mms" path="packages/apps/Mms" remote="gh" revision="cm-11.0" />
-  <project name="BlurredCM/android_packages_apps_Settings" path="packages/apps/settings" remote="gh" revision="cm-11.0" />
+  <project name="BlurredCM/android_packages_apps_Settings" path="packages/apps/Settings" remote="gh" revision="cm-11.0" />
  </manifest>
