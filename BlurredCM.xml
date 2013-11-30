@@ -24,4 +24,6 @@
   <project name="BlurredCM/android_packages_apps_Email" path="packages/apps/Email" remote="gh" revision="cm-11.0" />
   <project name="BlurredCM/android_packages_apps_Mms" path="packages/apps/Mms" remote="gh" revision="cm-11.0" />
   <project name="BlurredCM/android_packages_apps_Settings" path="packages/apps/Settings" remote="gh" revision="cm-11.0" />
+  <project name="TheMuppets/proprietary_vendor_motorola" path="vendor/motorola" remote="gh" revision="cm-11.0" />
+   
  </manifest>
