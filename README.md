@@ -1,4 +1,4 @@
-CyanogenMod local_manifest for BlurredCM
+local_manifest for BlurredCM
 ===========
 
 Getting Started
